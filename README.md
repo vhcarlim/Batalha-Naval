@@ -72,6 +72,7 @@ O jogo utiliza as 5 embarcações tradicionais do jogo de tabuleiro[cite: 44]:
 <img width="574" height="325" alt="image" src="https://github.com/user-attachments/assets/79821619-8dd7-4116-995d-7a8781346bbd" />
 
 7. Encerramento do jogo após a última frota ser afundada
+<img width="424" height="212" alt="image" src="https://github.com/user-attachments/assets/763a7d40-822c-4dd9-9589-d41e185b1750" />
 <img width="659" height="237" alt="image" src="https://github.com/user-attachments/assets/6f19557f-4f22-456f-8710-547e53ab273d" />
 
 # 👥 Equipe Desenvolvedora
